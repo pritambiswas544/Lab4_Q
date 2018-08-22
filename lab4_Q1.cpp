@@ -9,7 +9,7 @@ cin>>centimeter;
 //converting the length in meter=(lenght in centimeter/100);
 meter=(centimeter/100);
 cout<<"the length in meter is"<<meter<<endl;
-//converting lenght into kilometer=(lenght in centimeter/100);
+//converting lenght into kilometer=(lenght in centimeter/100000);
 kilometer=(centimeter/100000);
 cout<<"the length in kilometer is"<<kilometer<<endl;
 
